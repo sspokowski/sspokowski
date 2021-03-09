@@ -1,6 +1,7 @@
 ### Quality choreographer, DevOps enthusiast, change agent
 <br/>
-📫 [Check out my LinkedIn to get in touch](www.linkedin.com/in/sam-s-2bab1563)
+
+📫  [ Check out my LinkedIn to get in touch ](https://www.linkedin.com/in/sam-s-2bab1563)
 
 <!--
 **sspokowski/sspokowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
